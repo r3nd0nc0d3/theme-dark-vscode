@@ -4,6 +4,10 @@
   "description": "An amazing theme for the long nights coding",
   "version": "0.0.1",
   "publisher": "KodeDarkTheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r3nd0nc0d3/theme-dark-vscode/tree/main/github/themes"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
