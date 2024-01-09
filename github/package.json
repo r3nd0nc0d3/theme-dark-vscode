@@ -1,0 +1,22 @@
+{
+  "name": "kode-theme-dark",
+  "displayName": "Kode Theme Dark",
+  "description": "An amazing theme for the long nights coding",
+  "version": "0.0.1",
+  "publisher": "KodeDarkTheme",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kode Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kode-Dark-Theme-color-theme.json"
+      }
+    ]
+  }
+}
