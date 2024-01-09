@@ -34,8 +34,11 @@
         "editorLineNumber.foreground": "#ff0066",
 		"editorLink.activeForeground": "#FF0095",
 		"editorMarkerNavigation.background": "#ff0095",
-		"editorSuggestWidget.selectedBackground": "#19006320",
-		"editorSuggestWidget.background": "#ff00f7",
+		"editorSuggestWidget.selectedBackground": "#0c003020",
+		"editorSuggestWidget.background": "#190041",
+		"editorSuggestWidget.border": "#e600ff60",
+        "editorSuggestWidget.foreground": "#ffffff",
+        "editorSuggestWidget.highlightForeground": "#a00a64",
 		"extensionButton.prominentBackground": "#00000090",
         "extensionButton.prominentHoverBackground": "#000000",
 		"focusBorder": "#ff03a7b7",
@@ -748,7 +751,7 @@
 				],
 				"settings": {
 					"fontStyle": "italic",
-					"foreground": "#7a5cff"
+					"foreground": "#c69fff"
 				}
 			},
 			{
@@ -803,7 +806,7 @@
 				],
 				"settings": {
 					"fontStyle": "bold",
-					"foreground": "#ff00d9"
+					"foreground": "#ea3d71"
 				}
 			},
 			{
